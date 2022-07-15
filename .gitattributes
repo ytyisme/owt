@@ -1,0 +1,5 @@
+ow.tar.gz.0 filter=lfs diff=lfs merge=lfs -text
+ow.tar.gz.1 filter=lfs diff=lfs merge=lfs -text
+ow.tar.gz.2 filter=lfs diff=lfs merge=lfs -text
+ow.tar.gz.3 filter=lfs diff=lfs merge=lfs -text
+ow.tar.gz.4 filter=lfs diff=lfs merge=lfs -text
